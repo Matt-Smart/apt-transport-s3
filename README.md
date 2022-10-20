@@ -99,3 +99,7 @@ the s3 method.
 ## Contribution
 If you want to contribute a patch via PR please create it against development
 branch. Patches via email are welcome as well.
+
+# Building
+Requires: Docker
+Run `./wrapper.sh`
